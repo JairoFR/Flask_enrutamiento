@@ -6,10 +6,10 @@
 
  Servidor flask que tiene como finalidad comprender el enrutamiento y generar respuestas en el html de acuerdo a la informacion que se pasan a traves de ellas. 
 
-    - Localhost:5000/: ==> "¡Hola Mundo!"
-    - Localhost:5000/dojo:  ==>  "¡Dojo!"
-    - localhost:5000/say/flask: ==>  "¡Hola, Flask!" 
-    - localhost:5000/repeat/35/hello: ==>  "hola" 35 veces
+    - Localhost:5000/ ==> "¡Hola Mundo!"
+    - Localhost:5000/dojo  ==>  "¡Dojo!"
+    - localhost:5000/say/flask ==>  "¡Hola, Flask!" 
+    - localhost:5000/repeat/35/hello ==>  "hola" 35 veces
 
 ## **Instalacion y configuracion**
 
